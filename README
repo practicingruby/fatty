@@ -1,3 +1,5 @@
-An abstract formatting toolkit, inspired by Ruport's formatting system.   With
-luck, this will be the basis for Ruport 2.0's formatting support, but may also
-be used standalone.   More details to come.
+An abstract formatting toolkit, inspired by Ruport's formatting system for the
+feature set, and Sinatra for the interface.   With luck, this will be the basis
+for Ruport 2.0's formatting support, but may also be used standalone.  
+
+More details to come.
